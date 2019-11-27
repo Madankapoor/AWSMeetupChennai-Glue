@@ -1,4 +1,4 @@
-# AWS Meetup 22 Nov 2019 Chennai - AWS Glue
+# AWS Meetup 23 Nov 2019 Chennai - AWS Glue
 
 This repo includes the presentation and demo videos for the Meetup session on Glue.
 
