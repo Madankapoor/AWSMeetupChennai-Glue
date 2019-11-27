@@ -10,11 +10,7 @@ Feedback Form: https://forms.gle/K2vGpbkiYFGRemFJ9
 
 I have included short videos for creation of a crawler to crawl a csv file and a Glue job to do a simple CSV to parquet.
 
-
 https://youtu.be/oXxa-cUNrp4
-
-https://youtu.be/YA2ZDTZIz4I
-
 
 ## ETL Development
 
