@@ -4,8 +4,7 @@ This repo includes the presentation and demo videos for the Meetup session on Gl
 
 This section was conducted by Madan Kapoor from Coda Global.
 
-Feedback Form:
-https://forms.gle/K2vGpbkiYFGRemFJ9
+Feedback Form: https://forms.gle/K2vGpbkiYFGRemFJ9
 
 ## Demo Videos
 
@@ -65,3 +64,8 @@ Email: madankapoor10@gmail.com
 Phone Number: 91 8778002946
 
 linkedin: https://www.linkedin.com/in/madankapoor10/
+
+
+## Suggestions
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6uXt622Xoe6YsCRJLVOBXeq0U74aFN0lUm0siRWS_DnsvTA/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
